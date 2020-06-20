@@ -1,7 +1,6 @@
 #include <iostream>
 
-int main()
-{
+int main() {
     std::cout << "This is my test file!\n";
 
     return 0;
